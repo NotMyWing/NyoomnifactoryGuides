@@ -1,6 +1,8 @@
 # OwOfactory Guides
 
-This project automatically OwO-wifies all .md files from [Omnifactory Guides](github.com/RundownRhino/OmnifactoryGuides). I'm sorry.
+This project automatically OwO-wifies all .md files from [Omnifactory Guides](github.com/RundownRhino/OmnifactoryGuides).
+
+This is an April Fools joke, you want to submit actual ideas or guides please visit [the original repository](github.com/RundownRhino/OmnifactoryGuides) instead.
 
 ## Builds
 
@@ -15,7 +17,7 @@ The project is built using [NodeJS v13.12.0](https://nodejs.org/dist/v13.12.0/).
 Clone the repository, run `npm install` and git gud.
 
 To build the project, run
-* `gulp default` to build all three variants
+* `gulp` to build all three variants
 * `gulp owo` to build owo (vanilla)
 * `gulp uwu` to build uwu (moderate)
 * `gulp uvu` to build uvu (extreme)

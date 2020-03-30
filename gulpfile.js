@@ -30,14 +30,14 @@ levels.forEach(level => {
 	});
 
 	task(`build-${level}`, () => {
-		return src("src/guides/**/*.md")
+		return src("./guides/**/*.md")
 			.pipe(owoContents(level))
 			.pipe(owoPath(level))
-			.pipe(dest(`dest-${level}/guides`));
+			.pipe(dest(`dest-${level}/`));
 	});
 
 	task(`copy-${level}`, () => {
-		return src(["src/**", "!src/**/*.md"])
+		return src(["./guides/**", "!./guides/**/*.md"])
 			.pipe(owoPath(level))
 			.pipe(dest(`dest-${level}/`));
 	});

@@ -12,18 +12,20 @@ deploy:
     local_dir: dest-owo
     target_branch: dest-owo
     on:
-      branch: master
+      branch: "1.2.1"
+
   - provider: pages
     github_token: "$GITHUB_TOKEN"
     skip_cleanup: true
     local_dir: dest-uwu
     target_branch: dest-uwu
     on:
-      branch: master
+      branch: "1.2.1"
+
   - provider: pages
     github_token: "$GITHUB_TOKEN"
     skip_cleanup: true
     local_dir: dest-uvu
     target_branch: dest-uvu
     on:
-      branch: master
+      branch: "1.2.1"

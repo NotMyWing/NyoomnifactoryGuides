@@ -1,14 +1,14 @@
 # OwOfactory Guides
 
-This project automatically OwO-wifies all .md files from [Omnifactory Guides](github.com/RundownRhino/OmnifactoryGuides).
+This project automatically OwO-wifies all .md files from [Omnifactory Guides](https://github.com/RundownRhino/OmnifactoryGuides).
 
-This is an April Fools joke, you want to submit actual ideas or guides please visit [the original repository](github.com/RundownRhino/OmnifactoryGuides) instead.
+This is an April Fools joke, you want to submit actual ideas or guides please visit [the original repository](https://github.com/RundownRhino/OmnifactoryGuides) instead.
 
 ## Builds
 
-* [owo (vanilla)](https://github.com/NotMyWing/owofactory-guides/tree/dest-owo)
-* [uwu (moderate)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uwu)
-* [uvu (extreme)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uvu)
+* [owo (vanilla)](https://github.com/NotMyWing/owofactory-guides/tree/dest-owo/guides)
+* [uwu (moderate)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uwu/guides)
+* [uvu (extreme)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uvu/guides)
 
 ### Installing and Contributing
 

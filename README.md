@@ -6,9 +6,9 @@ This is an April Fools joke, you want to submit actual ideas or guides please vi
 
 ## Builds
 
-* [owo (vanilla)](https://github.com/NotMyWing/owofactory-guides/tree/dest-owo/guides)
-* [uwu (moderate)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uwu/guides)
-* [uvu (extreme)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uvu/guides)
+* [owo (vanilla)](https://github.com/NotMyWing/owofactory-guides/tree/dest-owo)
+* [uwu (moderate)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uwu)
+* [uvu (extreme)](https://github.com/NotMyWing/owofactory-guides/tree/dest-uvu)
 
 ### Installing and Contributing
 
